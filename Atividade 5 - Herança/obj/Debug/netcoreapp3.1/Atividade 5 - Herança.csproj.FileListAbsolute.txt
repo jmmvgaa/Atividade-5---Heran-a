@@ -1,0 +1,11 @@
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\bin\Debug\netcoreapp3.1\Atividade 5 - Herança.exe
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\bin\Debug\netcoreapp3.1\Atividade 5 - Herança.deps.json
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\bin\Debug\netcoreapp3.1\Atividade 5 - Herança.runtimeconfig.json
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\bin\Debug\netcoreapp3.1\Atividade 5 - Herança.runtimeconfig.dev.json
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\bin\Debug\netcoreapp3.1\Atividade 5 - Herança.dll
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\bin\Debug\netcoreapp3.1\Atividade 5 - Herança.pdb
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\obj\Debug\netcoreapp3.1\Atividade 5 - Herança.csprojAssemblyReference.cache
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\obj\Debug\netcoreapp3.1\Atividade 5 - Herança.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\obj\Debug\netcoreapp3.1\Atividade 5 - Herança.AssemblyInfo.cs
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\obj\Debug\netcoreapp3.1\Atividade 5 - Herança.dll
+C:\Users\João\Desktop\POO\Atividade 5 - Herança\Atividade 5 - Herança\obj\Debug\netcoreapp3.1\Atividade 5 - Herança.pdb
